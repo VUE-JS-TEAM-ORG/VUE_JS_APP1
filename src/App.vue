@@ -12,6 +12,10 @@ import TheWelcome from './components/TheWelcome.vue'
 
       <h1 class="text-red-500">hello Mohamed</h1>
     </div>
+<div class="bg-midnight text-tahiti">
+ Hello Chaimae
+</div>
+  
   </header>
 
   <main>
